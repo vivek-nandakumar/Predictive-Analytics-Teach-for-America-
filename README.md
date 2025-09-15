@@ -92,13 +92,8 @@ Teach for America faced declining application rates (16% drop in 2016) and signi
 - Data-driven framework for identifying high-risk applicants
 - Scalable solution for TFA's national recruitment efforts
 
-## Contributors
-- Aryan Patel
-- Boworanan Jetsadarom
-- Chirag Vijay Somaya
+## Author
 - Ishitha Nanda Kumar
-- Kaiyi Cao
-- Manasi Masurkar
 
 ## Course Information
 **Course**: Predictive Analytics  
